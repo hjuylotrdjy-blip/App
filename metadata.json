@@ -1,0 +1,6 @@
+{
+  "name": "مدمج الصور بالصوت - تطبيق تحويل الصور والصوت وSRT إلى فيديو",
+  "description": "تطبيق عربي احترافي يتيح لك تحويل مجموعة من الصور وملف صوتي مع ملف توقيتات SRT إلى فيديو متزامن تماماً بدقة تصل إلى 4K مع 10 مؤثرات حركية سينمائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
